@@ -8,4 +8,3 @@ Current Rank :
 ![alt text][banner]
 
 [banner]: https://www.codewars.com/users/Xsardas665/badges/large "current rank"
-
